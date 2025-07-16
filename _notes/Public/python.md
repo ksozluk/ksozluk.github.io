@@ -1,7 +1,7 @@
 ---
 title: python
 feed: show
-date: 2024-07-13
+date: 2025-07-13
 ---
 
 yazması kolay, okuması şiir gibi ama runtime’da çıkan hatalar, hayat dersi gibi. "sen de mi brütüs?" dedirten sürprizleri meşhurdur.
