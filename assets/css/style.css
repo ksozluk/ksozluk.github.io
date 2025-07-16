@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap');
 
 :root {
-  --bg: rgb(255, 252, 240);
+  --bg: #f4f4f4;
   --bg2: rgb(242, 240, 229);
   --text: #6f6e69;
   --title: #343331;
@@ -18,7 +18,7 @@
   --space-lg: 2rem;
   --space-xl: 3rem;
   
-  --max-width: 48rem;
+  --max-width: 44rem;
   --line-height: 1.5;
   
   /* 5-level typography scale (1rem = 15px) */
@@ -60,6 +60,7 @@ body {
   color: var(--text);
   background: var(--bg);
   font-size: var(--scale-base);
+  text-transform: lowercase;
 }
 
 .container {
