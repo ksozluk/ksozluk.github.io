@@ -2,7 +2,7 @@
 title: "hakkımda"
 layout: Post
 content-type: "static"
-permalink: /about
+permalink: /hakkimda
 ---
 
 blog değil, kişisel sözlük.
