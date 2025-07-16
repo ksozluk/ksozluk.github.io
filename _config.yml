@@ -35,11 +35,11 @@ preferences:
     enabled: true
 
 # Site Configuration
-title: "Your Site Title"
-heading: "Your Name"
-description: "A brief description of your site"
-url: "https://yoursite.com"
-baseurl: ""
+title: "ksözlük"
+heading: " kişisel sözlük"
+description: "kişisel sözlük"
+url: "https://ksozluk.github.io"
+baseurl: "https://ksozluk.github.io"
 
 # Asset Configuration
 apple_touch_icon: "/assets/img/profile.png"
@@ -48,18 +48,18 @@ ie_css: "/assets/css/ie-target.css"
 
 # Menu Items
 menu:
-  - title: "Notes"
-    url: "/notes"
-  - title: "Blog"
-    url: "/blog"
-  - title: "About"
-    url: "/about"
+  - title: "akış"
+    url: "/"
+  - title: "hakkımda"
+    url: "/hakkimda"
+  - title: "iletişim"
+    url: "/iletisim"
 
 # Footer
 footer:
-  copyright: "© 2024 Your Name. Contents under CC-BY-NC"
+  copyright: "© 2025 ~ kişisel sözlük"
   credits:
-    enabled: true
+    enabled: false
     url: "/credits"
     text: "Credits"
 
