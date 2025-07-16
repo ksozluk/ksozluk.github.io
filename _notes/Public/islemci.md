@@ -4,7 +4,7 @@ feed: show
 date: 2025-07-16
 ---
 
-bilgisayarın komutları yorumlayan ve yöneten beyni. ne kadar iyiyse, cihaz o kadar akıcı ve hızlı çalışır. bazen yorulur, ısınır ama onsuz teknoloji düşünülemez.
+bilgisayarın komutları yorumlayan ve yöneten beyni. ne kadar iyiyse, cihaz o kadar akıcı ve hızlı çalışır. bazen yorulur, ısınır ama onsuz teknoloji düşünülemez./
 
 16-07-2025 ~ 18:53
 
