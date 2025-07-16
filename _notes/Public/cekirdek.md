@@ -1,12 +1,10 @@
 ---
-title: ksözlük
+title: çekirdek
 feed: show
 date: 2025-07-14
 ---
 
-dünyayı kendi penceremden anlatma çabam, bazen ciddi bazen de tam bir sarkastik günlük.
-burada kelimeler sadece anlamlarından ibaret değil; yaşanmışlık, his ve biraz da kafa karışıklığı saklı.
-yani, sözlükten çok içsel bir yolculuk…
+türk halkının meditatif aktivitesi. yerken düşünmezsin ama bitince hayatın anlamını sorgularsın. çitle çitle bitmeyen bir döngü. aynı ilişkiler gibi, ilk başta tatlı, sonra kabukla uğraşıp yoruluyorsun.
 
 14-07-2025 ~ 21:44
 
