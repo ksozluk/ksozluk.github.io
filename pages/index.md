@@ -7,4 +7,4 @@ permalink: /
 title: ksözlük
 ---
 
-düşünüyorum, öyleyse varım.
+kişisel sözlük
