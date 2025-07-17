@@ -1,8 +1,8 @@
 ---
-title: "hakkımda"
+title: "hakkında"
 layout: Post
 content-type: "static"
-permalink: /hakkimda
+permalink: /hakkinda
 ---
 
 blog değil, kişisel sözlük.
