@@ -50,8 +50,8 @@ ie_css: "/assets/css/ie-target.css"
 menu:
   - title: "akış"
     url: "/"
-  - title: "hakkımda"
-    url: "/hakkimda"
+  - title: "hakkında"
+    url: "/hakkinda"
   - title: "iletişim"
     url: "/iletisim"
 
