@@ -471,7 +471,7 @@ td {
   width: 100%;
   padding: var(--space-sm);
   border: 1px solid var(--border);
-  border-radius: 0.25rem;
+  border-radius: 0.50rem;
   font-size: var(--scale-base);
   background: var(--bg);
   color: var(--text);
@@ -499,7 +499,7 @@ td {
   display: block;
   border: 1px solid var(--border);
   border-top: none;
-  border-radius: 0 0 0.25rem 0.25rem;
+  border-radius: 0 0 0.50rem 0.50rem;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
