@@ -57,7 +57,7 @@ menu:
 
 # Footer
 footer:
-  copyright: "© 2025 ~ kişisel sözlük"
+  copyright: "© 2025 kişisel sözlük"
   credits:
     enabled: false
     url: "/credits"
