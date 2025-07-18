@@ -5,4 +5,4 @@ content-type: "static"
 permalink: /hakkinda
 ---
 
-blog değil, kişisel sözlük.
+genelde teknoloji ve yazılım hakkında bilgi edineceğiniz, kutsal olmayan bilgi kaynağı.
