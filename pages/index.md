@@ -7,4 +7,4 @@ permalink: /
 title: ksözlük
 ---
 
-gündem, teknoloji, yazılım
+kutsal olmayan bilgi kaynağı
