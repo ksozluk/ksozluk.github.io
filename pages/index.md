@@ -7,4 +7,4 @@ permalink: /
 title: ksözlük
 ---
 
-*güncelleme: 18-07-2025 ~ 20:56*
+bu sitede toplam 7 kelime var. son güncelleme: 18-07-2025 ~ 20:56
