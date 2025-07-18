@@ -7,4 +7,4 @@ permalink: /
 title: ksözlük
 ---
 
-düşünüyorum, öyleyse varım.
+tüm kelimeleri <a href="/notes">gör</a>
