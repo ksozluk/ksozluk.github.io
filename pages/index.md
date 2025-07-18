@@ -7,4 +7,4 @@ permalink: /
 title: ksözlük
 ---
 
-blogumsu kişisel sözlük
+güncelleme: 18-07-2025 ~ 20:56
