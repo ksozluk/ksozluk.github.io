@@ -5,4 +5,4 @@ content-type: "static"
 permalink: /hakkinda
 ---
 
-genelde teknoloji ve yazılım hakkında bilgi edineceğiniz, kutsal olmayan bilgi kaynağı.
+genelde teknoloji ve yazılım hakkında bilgi edineceğiniz, kutsal bilgi kaynağı.
