@@ -7,4 +7,4 @@ permalink: /
 title: ksözlük
 ---
 
-tüm kelimeleri <a href="/notes">gör</a>
+gündem, teknoloji, yazılım
