@@ -7,4 +7,4 @@ permalink: /
 title: ksözlük
 ---
 
-kutsal olmayan bilgi kaynağı
+blogumsu kişisel sözlük
