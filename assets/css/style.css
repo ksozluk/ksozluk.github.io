@@ -2,7 +2,7 @@
 
 :root {
   --bg: #f4f4f4;
-  --bg2: #d3d3d3;
+  --bg2: #f4f4f4;
   --text: #6f6e69;
   --title: #343331;
   --brand: rgb(58, 169, 159);
@@ -32,7 +32,7 @@
 /* Dark theme variables */
 [data-theme="dark"] {
   --bg: #18181c;
-  --bg2: #1F2022;
+  --bg2: #18181c;
   --text: #d6d6d6;
   --title: #fff;
   --brand: #3ac9b0;
