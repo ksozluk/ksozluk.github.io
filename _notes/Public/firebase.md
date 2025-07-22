@@ -5,7 +5,7 @@ date: 2025-07-22
 ---
 
 bu şey app yapmayı sevdiriyor.
-başta “ne bu ya?” dedim, sonra elim kolum bağlandı.
+başta "ne bu ya?" dedim, sonra elim kolum bağlandı.
 veri tutuyor, kullanıcı doğruluyor, bildirim atıyor, hepsi bi arada, zahmetsiz.
 
 22-07-2025 ~ 17:22
