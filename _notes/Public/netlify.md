@@ -1,10 +1,10 @@
 ---
-title: vercel
+title: netlify
 feed: show
 date: 2025-07-23
 ---
 
-frontend projelerin hızlıca yayına gittiği platform. github’la entegre, deploy tek tık. serverless destekli, küçük projeler için ideal. bazen cache sorunları var ama genel olarak pratik ve hızlı. zahmetsiz hosting isteyenlere biçilmiş kaftan.
+statik siteyi bi’ tıkla yayına aldıran servis. github’a bağla, kodu at, gerisi otomatik. form falan da destekliyor, serverless’le backend işini hallediyor. ücretsiz planı tatlı, küçük projeler için ideal. zahmetsiz, hızlı, geliştirici dostu hosting.
 
 23-07-2025 ~ 20:19
 
