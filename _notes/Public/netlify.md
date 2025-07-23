@@ -4,7 +4,7 @@ feed: show
 date: 2025-07-23
 ---
 
-statik siteyi bi’ tıkla yayına aldıran servis. github’a bağla, kodu at, gerisi otomatik. form falan da destekliyor, serverless’le backend işini hallediyor. ücretsiz planı tatlı, küçük projeler için ideal. zahmetsiz, hızlı, geliştirici dostu hosting.
+statik siteyi bi tıkla yayına aldıran servis. github'a bağla, kodu at, gerisi otomatik. form falan da destekliyor, serverless'le backend işini hallediyor. ücretsiz planı tatlı, küçük projeler için ideal. zahmetsiz, hızlı, geliştirici dostu hosting.
 
 23-07-2025 ~ 20:19
 
