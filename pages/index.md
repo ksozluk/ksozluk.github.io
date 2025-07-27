@@ -7,4 +7,4 @@ permalink: /
 title: ksözlük
 ---
 
-güncelleme: 25-07-2025 ~ 21:20
+güncelleme: 27-07-2025 ~ 19:24
